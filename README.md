@@ -1,6 +1,7 @@
 # **python-challenge**
 
 This contains my solution for two python challenges PyBank and PyPoll (Module 3)
+
     * PyBank challenge is analysis on the financial records of company.
     * PyPoll challenge is analysis on the votes of election result.
 
@@ -44,11 +45,26 @@ The results should look similar to the following:
 
 ### **PyBank**
 
-[photo]: /PyBank/Analysis/budget_analysis.txt
+Financial Analysis
+..................
+Total Months: 86
+Total: $22564198
+Average Change : $ -8311.11
+Greatest Increase in Profits: Aug-16  ($1862002)
+Greatest decrease in Profits: Feb-14  ($-1825558)
 
 ### **PyPoll**
 
-[photo]: /PyPoll/Analysis/election_analysis.txt
+Election Results
+.....................................
+Total Votes: 369711
+.....................................
+Charles Casper Stockham : 23.049% (85213)
+Diana DeGette : 73.812% (272892)
+Raymon Anthony Doane : 3.139% (11606)
+.....................................
+Winner: Diana DeGette
+......................................
 
 
 
